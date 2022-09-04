@@ -2,9 +2,9 @@
 
 #### Download 📥 : 
     
-    pip install -i https://test.pypi.org/simple/ armory-tools==1.1
+    pip install armory-api-lib==1.1
     
-    https://test.pypi.org/project/armory-tools/1.1/
+    https://pypi.org/project/armory-api-lib/1.1/
     
 
 #### Usage/Doc 🔧: 
