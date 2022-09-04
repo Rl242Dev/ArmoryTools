@@ -4,6 +4,8 @@
     
     pip install
     
+    pipy Link
+    
 
 #### Usage/Doc 🔧: 
     
